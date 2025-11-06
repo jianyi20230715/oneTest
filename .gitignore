@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+.python-version
+uv.lock
+
+# IDE/Tooling files
+.roo/
+
+# Python specific
+__pycache__/
+*.pyc
